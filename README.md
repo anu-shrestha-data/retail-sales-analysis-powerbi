@@ -22,3 +22,13 @@ Sales trends fluctuate across months with several peak sales periods.
 
 ## Objective 
 To demonstrate skills in data exploration, business insights, and dashboard creation using Power BI.
+
+## Dashboard Preview
+### Sales By Category
+![Sales By Category] (sales_by_category.png)
+
+### Sales Trend Over Time
+! [Sales Trend] (sales_trend.png)
+
+### Total Sales KPI
+![Total Sales] (total_sales.png)

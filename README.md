@@ -25,10 +25,10 @@ To demonstrate skills in data exploration, business insights, and dashboard crea
 
 ## Dashboard Preview
 ### Sales By Category
-![Sales By Category] (sales_by_category.png)
+![Sales By Category](sales_by_category.png)
 
 ### Sales Trend Over Time
-! [Sales Trend] (sales_trend.png)
+! [Sales Trend](sales_trend.png)
 
 ### Total Sales KPI
-![Total Sales] (total_sales.png)
+![Total Sales](total_sales.png)

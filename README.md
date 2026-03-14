@@ -8,7 +8,7 @@ This project analyzes retail sales data to identify key business insights such a
 - Power BI
 
 ## Dataset 
-Sample Superstone dataset (public datasetcommonly used for analytics practice).
+Sample Superstone dataset (public dataset commonly used for analytics practice).
 
 ## Key Insights 
 Technology category generated the highest sales.

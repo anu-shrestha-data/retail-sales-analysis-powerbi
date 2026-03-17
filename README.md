@@ -16,6 +16,8 @@ The dataset contains sales transaction records with the following fields:
 - Sales
 
 Dashboard Preview 
+![Sales dashboard](dashboard.png)
+
 Key Insights
 - The West Region generated the highest sales among all regions.
 - The South region showed the lowest sales peformmance.
@@ -24,3 +26,5 @@ Key Insights
 
 Conclusion
 This dashboard helps in undersgtanding business performance and supports better decision-making usind data visualization.
+
+
